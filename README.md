@@ -1,5 +1,7 @@
 
 # Discord Multitool Bot
+Developed by Playboii Driizzyy
+
 This is a versatile Discord bot with multiple commands and integration with a FiveM server. The bot includes slash commands for fun, utility, moderation, and FiveM server updates.
 
 ### Features:
@@ -12,3 +14,6 @@ This is a versatile Discord bot with multiple commands and integration with a Fi
 1. Fill in the `config.js` file with your bot token, FiveM server details, and channel IDs.
 2. Run `npm install discord.js axios cron` to install dependencies.
 3. Start the bot using `node index.js`.
+
+SUPPORT: Join my discord
+https://discord.gg/spinnablockrp
